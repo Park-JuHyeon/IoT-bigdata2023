@@ -7,6 +7,12 @@ IoT 빅데이터분석 수업
     - 파이썬 기본(패스)
     - 주피터 노트북 시작
      - Pandas
-     - Numpy
-     - Scikit-learn
-     - Matplotlib
+        - Series
+
+
+## 2일차
+- 
+
+
+     
+     
