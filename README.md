@@ -14,6 +14,8 @@ IoT 빅데이터분석 수업
 - 빅데이터 분석 기초
     - Pandas
         - DataFrame (핵심)
+    - Numpy 기본
+
 
 
      
